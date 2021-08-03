@@ -11,8 +11,7 @@ import React, { useContext } from 'react';
 import { createIntl, createIntlCache } from 'react-intl';
 import zh_CN from "antd/es/locale/zh_CN";
 import zhCN from './locale/zh-CN';
-import enUS from './locale/en-US'; // export type IntlShape = IntlShape;
-
+import enUS from './locale/en-US';
 var cache = createIntlCache();
 var zhCNIntl = createIntl({
   locale: 'zh_CN',
