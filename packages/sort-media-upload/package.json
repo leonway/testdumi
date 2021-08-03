@@ -26,7 +26,7 @@
     "type": "git",
     "url": "https://github.com/leonway/testdumi"
   },
-  "author": "leanway <1216609576@qq.com>",
+  "author": "leonway <1216609576@qq.com>",
   "license": "MIT",
   "publishConfig": {
     "access": "public",
