@@ -1,6 +1,5 @@
 import React from 'react';
 import { Modal } from 'antd';
-
 interface indexProps {
   wrapClassName?: string;
   autoPlay?: boolean;

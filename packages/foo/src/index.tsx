@@ -7,6 +7,7 @@ interface Props {
   title: string;
   msg: string;
 }
+
 export default ({ title, msg }: Props) => {
   return (
     <>

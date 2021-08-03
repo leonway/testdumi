@@ -79,8 +79,6 @@ export type SkyRenderFieldPropsType = {
     | undefined;
 };
 
-// export type IntlShape = IntlShape;
-
 const cache = createIntlCache();
 const zhCNIntl = createIntl({ locale: 'zh_CN', messages: zhCN }, cache);
 const enUSIntl = createIntl({ locale: 'en_US', messages: enUS }, cache);

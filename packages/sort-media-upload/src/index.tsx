@@ -35,7 +35,6 @@ import FileList from './FileList';
 import './index.less';
 
 const CancelToken = axios.CancelToken;
-
 interface RcUploadProps {
   value?: OssFile[];
   onChange?: Function;
