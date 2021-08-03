@@ -1,0 +1,27 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "lib/index.js",
+  "module": "index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "es",
+    "src",
+    "dist"
+  ],
+  "dependencies": {
+    "antd": "^4.16.9",
+    "react": "^16.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "reamey",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "http://registry.npmjs.org/"
+  }
+}
