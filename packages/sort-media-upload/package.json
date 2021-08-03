@@ -15,7 +15,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@reamey/media-preview": "^1.0.7",
+    "@reamey/media-preview": "^1.0.0",
     "ahooks": "^2.10.9",
     "antd": "^4.16.9",
     "axios": "^0.21.1",
