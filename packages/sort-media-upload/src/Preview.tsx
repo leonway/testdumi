@@ -10,7 +10,7 @@ import PreviewIcon from './assets/actions/preview.svg';
 import PreviewPlayIcon from './assets/actions/previewPlay.svg';
 import PriviewVideo from './assets/png/priviewVideo.png';
 import PriviewAudio from './assets/png/audioPreview.png';
-import WarnIngIcon from './assets/png/warning.svg';
+import WarnIngIcon from './assets/actions/warning.svg';
 import { Progress, Button, Tooltip } from 'antd';
 import Icon from '@ant-design/icons';
 import * as constant from './constant';
