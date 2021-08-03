@@ -1,6 +1,6 @@
 {
   "name": "@reamey/foo",
-  "version": "1.0.7",
+  "version": "1.0.0",
   "description": "test",
   "main": "lib/index.js",
   "module": "index.js",
@@ -27,6 +27,5 @@
   "publishConfig": {
     "access": "public",
     "registry": "http://registry.npmjs.org/"
-  },
-  "gitHead": "928673c575ccce35be54c2f13f38668854dd7969"
+  }
 }
