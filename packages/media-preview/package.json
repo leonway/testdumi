@@ -1,5 +1,5 @@
 {
-  "name": "@sky/media-preview",
+  "name": "@reamey/media-preview",
   "version": "1.0.7",
   "description": "test",
   "main": "lib/index.js",
@@ -28,5 +28,5 @@
     "access": "public",
     "registry": "http://registry.npmjs.org/"
   },
-  "gitHead": "98fe8596751e7a76b3a25c8acfb679d8c29fde55"
+  "gitHead": "928673c575ccce35be54c2f13f38668854dd7969"
 }

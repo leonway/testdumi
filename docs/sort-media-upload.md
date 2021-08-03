@@ -16,7 +16,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import SortMediaUpload from '@sky/sort-media-upload';
+import SortMediaUpload from '@reamey/sort-media-upload';
 import axios from 'axios';
 
 export default () => <SortMediaUpload request={axios} />;

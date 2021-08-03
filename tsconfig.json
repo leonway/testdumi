@@ -12,9 +12,11 @@
     "paths": {
       // "@/*": ["src/*"],
       // "@@/*": ["src/.umi/*"],
-      "@sky/sort-media-upload": ["./packages/sort-media-upload/src/index.tsx"],
-      "@sky/media-preview": ["./packages/media-preview/src/index.tsx"],
-      "@sky/provider": ["./packages/provider/src/index.tsx"]
+      "@reamey/sort-media-upload": [
+        "./packages/sort-media-upload/src/index.tsx"
+      ],
+      "@reamey/media-preview": ["./packages/media-preview/src/index.tsx"],
+      "@reamey/provider": ["./packages/provider/src/index.tsx"]
     },
     "allowSyntheticDefaultImports": true
   },

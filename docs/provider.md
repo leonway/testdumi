@@ -17,7 +17,7 @@ Demo:
 ```tsx
 import React, { useState } from 'react';
 import { Button } from 'antd';
-import SkyProvider from '@sky/provider';
+import SkyProvider from '@reamey/provider';
 
 export default () => {
   const [show, setShow] = useState();

@@ -30,7 +30,7 @@ import * as constants from './constant';
 import axios from 'axios';
 import { AxiosRequestConfig, AxiosPromise } from 'axios/index';
 import { UploadProps } from 'rc-upload/es';
-import MediaPreview from '@sky/media-preview';
+import MediaPreview from '@reamey/media-preview';
 import FileList from './FileList';
 import './index.less';
 

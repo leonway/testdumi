@@ -13,8 +13,8 @@ Demo:
 ```tsx
 import React, { useState } from 'react';
 import { Button } from 'antd';
-import MediaPreview from '@sky/media-preview';
-import audio from '@sky/sort-media-upload/src/assets/png/audioPreview.png';
+import MediaPreview from '@reamey/media-preview';
+import audio from '@reamey/sort-media-upload/src/assets/png/audioPreview.png';
 
 export default () => {
   const [show, setShow] = useState();

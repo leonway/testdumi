@@ -5,4 +5,4 @@ declare module '*.svg' {
   export default content;
 }
 declare module '*.png';
-declare module '@sky/media-preview';
+declare module '@reamey/media-preview';
