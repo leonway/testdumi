@@ -18,16 +18,6 @@ export type ProSchemaValueEnumType = {
   disabled?: boolean;
 };
 
-/**
- * 支持 Map 和 Object
- *
- * @name ValueEnum 的类型
- */
-export type ProSchemaValueEnumMap = Map<
-  React.ReactText,
-  ProSchemaValueEnumType | React.ReactNode
->;
-
 export type ProSchemaValueEnumObj = Record<
   string,
   ProSchemaValueEnumType | React.ReactNode
@@ -47,7 +37,7 @@ export type BaseSkyFieldFC = {
   /** Label */
   label?: React.ReactNode;
   /** 映射值的类型 */
-  valueEnum?: ProSchemaValueEnumObj | ProSchemaValueEnumMap;
+  valueEnum?: ProSchemaValueEnumObj;
   /** 唯一的key，用于网络请求 */
   proFieldKey?: React.Key;
 };

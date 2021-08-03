@@ -3,8 +3,10 @@ import { Button } from 'antd';
 /**
  * Dr properties.
  */
+
 interface Props {
   title: string;
+  test?: number;
   msg: string;
 }
 

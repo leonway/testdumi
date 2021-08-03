@@ -36,6 +36,7 @@ import './index.less';
 
 const CancelToken = axios.CancelToken;
 interface RcUploadProps {
+  test?: number;
   value?: OssFile[];
   onChange?: Function;
   request: (url: string, config?: AxiosRequestConfig) => AxiosPromise;
