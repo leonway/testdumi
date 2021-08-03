@@ -1,10 +1,11 @@
 ---
-title: foo
-order: 1
-toc: menu
+title: Foo
+order: 0
+group:
+  path: /
 nav:
-  title: Components
-  path: /components/foo
+  title: 组件
+  path: /components
 ---
 
 ## Foo

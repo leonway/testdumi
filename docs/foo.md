@@ -17,7 +17,7 @@ Demo:
 ```tsx
 import React from 'react';
 import Foo from '@reamey/foo';
-console.log('foo', require('foo'));
+// console.log('foo', require('foo'));
 export default () => <Foo title="First Demo" />;
 ```
 
